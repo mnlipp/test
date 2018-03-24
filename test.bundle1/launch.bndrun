@@ -1,0 +1,3 @@
+-runbundles: \
+	test.bundle1;version=latest,\
+	test.bundle2;version=latest
